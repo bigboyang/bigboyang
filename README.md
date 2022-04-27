@@ -13,6 +13,8 @@
 ## 🚀 My_Skills
 
 > _Tools, languages, and other things that I like to work with_
+> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jaykos96)](https://solved.ac/jaykos96)
 
 **Programming Languages**
 
