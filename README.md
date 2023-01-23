@@ -1,7 +1,6 @@
 
 ## 🤵 About_Me
 
-- 🌱 벡엔드와 프론트엔드를 공부하고 있습니다 
 - [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaykos96)](https://solved.ac/jaykos96)
 
