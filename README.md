@@ -10,6 +10,7 @@
 - 채팅기능을 활용한 여행 커뮤니티 사이트(https://github.com/bigboyang/TravelTalkers/tree/master)
 - 인프라를 이용한 지역별 아파트 가격분석  (https://github.com/bigboyang/RealEstateAnal)
 - AI를 활용한 인공지능 쇼핑몰(https://github.com/bigboyang/ByeBuyigApp)
+- prophet을 이용한 간단한 주식 예측(https://github.com/bigboyang/prophet-stock)
 
 ## 🚀 My_Skills 🛠
 
